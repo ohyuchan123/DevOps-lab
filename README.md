@@ -9,3 +9,7 @@ DevOps 분야에서 활약할 수 있는 역량을 갖추고자 공부한 공부
 ## DevOps Practice
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/tree/master/Resource/DevOps#-devops%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%97%AC-%EC%98%AC%EB%A6%BD%EB%8B%88%EB%8B%A4">🚀 DevOps Onboarding</a>
+
+## 📝 Rule
+
+1. 이해가 안됐던 부분은 issue로 남기고 구글링 후 자세한 방법을 정리하기
