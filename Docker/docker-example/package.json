@@ -1,0 +1,15 @@
+{
+  "name": "docker-example",
+  "version": "1.0.0",
+  "description": "이번 docker-example 파일은 Node.js를 통해서 심플한 텍스트를 출력하는 어플을 작성하였습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
